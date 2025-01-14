@@ -1,0 +1,22 @@
+#calculatorShell{
+    border: 1px solid;
+    width: 300px;
+    height: 500px;
+}
+#screenShell{
+    border: 1px solid;
+    height: 100px;
+}
+button{
+    height: 100px;
+    width: 75px;
+}
+.rows{
+    display: flex;
+    flex-direction: row;
+}
+#Expression{
+    width: 290px;
+    height: 100px;
+    font-size: 50px;
+}
